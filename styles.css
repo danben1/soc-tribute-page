@@ -1,1 +1,43 @@
-/* Copy and paste your CSS from CodePen into here */
+body{
+  background-color: rgb(rgb(232,232,232));
+  }
+
+#title {
+font-family: bebas+neue, fantasy;
+text-align: center;
+font-size: 60px;
+padding: 10px;
+margin: 10px;
+}
+
+#sub-title {
+font-family: Kanit;
+text-align: center;
+font-size: 20px;
+padding: 5px;
+margin: -15px;
+}
+
+#image {
+display: block;
+max-width: 100%;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+border-color: black;
+border-width: 5px;
+border-style: solid;
+border-radius: 15px;
+}
+
+#img-caption {
+font-style: italic;
+font-size: 20px;
+text-align: center;
+}
+#tribute-info {
+font-family: bebas+neue;
+font-size: 20px;
+text-align: left;
+}
+
